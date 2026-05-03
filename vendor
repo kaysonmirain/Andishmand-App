@@ -1,0 +1,4 @@
+<script>start("/Users/kaysonmirain/Desktop/Projects/Github/Andishmand App/vendor/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("stockfish","stockfish",1,128,"128 B",1777533411,"4/30/26, 3:16:51 AM");</script>
+<script>addRow("chess.min.js","chess.min.js",0,15141,"14.8 kB",1777684689,"5/1/26, 9:18:09 PM");</script>

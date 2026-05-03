@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Electron / electron-builder output
+dist.noindex/
+release/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & debug
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env & secrets (if you add them later)
+.env
+.env.*
+!.env.example
+
+# Optional local pack (regenerate with npm run pack:web)
+andishmand-web.zip

@@ -59,12 +59,4 @@ The name and tagline set the tone:
 
 This project’s **`package.json`** declares **`ISC`** for the app scaffold. **Stockfish** and other upstream libraries carry their own licenses; see their packages and bundled vendor assets for terms.
 
----
-
-<br/>
-
-<p align="center">
-  <sub><strong>Tagline:</strong> Deliberate · Enlightening · Nuanced · Insightful · Zonal</sub>
-</p>
-
 <br/>
